@@ -21,7 +21,7 @@ Tg：https://t.me/it_cast
 - Nicegram会员：[https://raw.githubusercontent.com/itcast-l/shadowrocket-module/main/Nicegram.module](https://raw.githubusercontent.com/itcast-l/shadowrocket-module/main/Nicegram.module)
 - Keep 订阅视频：[https://raw.githubusercontent.com/itcast-l/shadowrocket-module/main/keep.module](https://raw.githubusercontent.com/itcast-l/shadowrocket-module/main/keep.module)
 - 网易云Vip(未测试)：[https://raw.githubusercontent.com/itcast-l/shadowrocket-module/main/NetEase.module](https://raw.githubusercontent.com/itcast-l/shadowrocket-module/main/NetEase.module)
-- 知乎盐选：[https://raw.githubusercontent.com/itcast-l/shadowrocket-module/main/zhihu.module](https://raw.githubusercontent.com/itcast-l/shadowrocket-module/main/zhihu.module)
+- 知乎盐选：
 
 ## 使用方法
 
