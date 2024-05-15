@@ -1,0 +1,9 @@
+#!url=https://raw.githubusercontent.com/yourihua/shadowrocket-module/main/GoPro.module
+#!name= GoPro 解锁订阅
+#!desc= 解锁 Premium
+
+[MITM]
+hostname = %APPEND% api.gopro.com
+
+[Script]
+gopro-proto = type=http-response,pattern=^https:\/\/api\.gopro\.com\/v1\/accounts\/d989b23a-f27e-4087-8fa6-8a381108ac79$,requires-body=1,script-path=https://github.com/yourihua/shadowrocket-module/raw/main/js/GoPro.js,script-update-interval=0
