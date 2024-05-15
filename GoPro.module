@@ -6,4 +6,4 @@
 hostname = %APPEND% api.gopro.com
 
 [Script]
-gopro-proto = type=http-response,pattern=^https:\/\/api\.gopro\.com$,requires-body=1,script-path=https://github.com/yourihua/shadowrocket-module/raw/main/js/GoPro.js,script-update-interval=0
+gopro-proto = type=http-response,pattern=^https:\/\/api\.gopro\.com.+,requires-body=1,script-path=https://github.com/yourihua/shadowrocket-module/raw/main/js/GoPro.js,script-update-interval=0
