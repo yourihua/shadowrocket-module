@@ -1,5 +1,11 @@
+let accountAttributesMapObj;
+
 const url = $request.url;
 const method = $request.method;
-const body = $response.body;
+let body = $response.body;
 
 console.log(`${url}-${method}-${body}`);
+
+function processMapObj(accountAttributesMapObj){
+   
+}
